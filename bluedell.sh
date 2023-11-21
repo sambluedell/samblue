@@ -3,11 +3,11 @@
 虽然真实；做
 清除
 
-echo -e "bluedell"
-echo "
-echo "
+echo -e "\033[96m_ _ ____ _ _ _ _ ____ __ _ "
+echo "|_/ |___ | | | | | | |\ | "
+echo "| \_ |___ _| | |___ | |__| | \| "
 回声“”
-echo -e "\033[bluedell一键脚本工具 v1 （支持Ubuntu，Debian，Centos系统）\033[0m"
+echo -e "\033[96m科技bluedell一键脚本工具 v1.9.8 （支持Ubuntu，Debian，Centos系统）\033[0m"
 回声“------------------------”
 echo "1.系统信息查询"
 echo "2.系统更新"
@@ -6089,3 +6089,4 @@ EOF
   回声“”
   清除
 完毕
+
